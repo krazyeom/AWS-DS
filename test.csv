@@ -292,7 +292,7 @@ PassengerId,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,E
 1182,1,Rheims, Mr., George Alexander Lucien,male,,0,0,PC 17607,39.6,,S
 1183,3,Daly, Miss., Margaret Marcella Maggie,female,30,0,0,382650,6.95,,Q
 1184,3,Nasr, Mr., Mustafa,male,,0,0,2652,7.2292,,C
-1185,1,Dodge, Dr. Washington,male,53,1,1,33638,81.8583,A34,S
+1185,1,Dodge, Dr., Washington,male,53,1,1,33638,81.8583,A34,S
 1186,3,Wittevrongel, Mr., Camille,male,36,0,0,345771,9.5,,S
 1187,3,Angheloff, Mr., Minko,male,26,0,0,349202,7.8958,,S
 1188,2,Laroche, Miss., Louise,female,1,1,2,SC/Paris 2123,41.5792,,C
@@ -413,7 +413,7 @@ PassengerId,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,E
 1303,1,Minahan, Mrs., William Edward (Lillian E Thorpe),female,37,1,0,19928,90,C78,Q
 1304,3,Henriksson, Miss., Jenny Lovisa,female,28,0,0,347086,7.775,,S
 1305,3,Spector, Mr., Woolf,male,,0,0,A.5. 3236,8.05,,S
-1306,1,Oliva y Ocana, Dona. Fermina,female,39,0,0,PC 17758,108.9,C105,C
+1306,1,Oliva y Ocana, Dona., Fermina,female,39,0,0,PC 17758,108.9,C105,C
 1307,3,Saether, Mr., Simon Sivertsen,male,38.5,0,0,SOTON/O.Q. 3101262,7.25,,S
 1308,3,Ware, Mr., Frederick,male,,0,0,359309,8.05,,S
 1309,3,Peter, Master., Michael J,male,,1,1,2668,22.3583,,C

@@ -244,7 +244,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 243,0,2,Coleridge, Mr., Reginald Charles,male,29,0,0,W./C. 14263,10.5,,S
 244,0,3,Maenpaa, Mr., Matti Alexanteri,male,22,0,0,STON/O 2. 3101275,7.125,,S
 245,0,3,Attalah, Mr., Sleiman,male,30,0,0,2694,7.225,,C
-246,0,1,Minahan, Dr. William Edward,male,44,2,0,19928,90,C78,Q
+246,0,1,Minahan, Dr., William Edward,male,44,2,0,19928,90,C78,Q
 247,0,3,Lindahl, Miss., Agda Thorilda Viktoria,female,25,0,0,347071,7.775,,S
 248,1,2,Hamalainen, Mrs., William (Anna),female,24,0,2,250649,14.5,,S
 249,1,1,Beckwith, Mr., Richard Leonard,male,37,1,1,11751,52.5542,D35,S
@@ -316,7 +316,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 315,0,2,Hart, Mr., Benjamin,male,43,1,1,F.C.C. 13529,26.25,,S
 316,1,3,Nilsson, Miss., Helmina Josefina,female,26,0,0,347470,7.8542,,S
 317,1,2,Kantor, Mrs., Sinai (Miriam Sternin),female,24,1,0,244367,26,,S
-318,0,2,Moraweck, Dr. Ernest,male,54,0,0,29011,14,,S
+318,0,2,Moraweck, Dr., Ernest,male,54,0,0,29011,14,,S
 319,1,1,Wick, Miss., Mary Natalie,female,31,0,2,36928,164.8667,C7,S
 320,1,1,Spedden, Mrs., Frederic Oakley (Margaretta Corning Stone),female,40,1,1,16966,134.5,E34,C
 321,0,3,Dennis, Mr., Samuel,male,22,0,0,A/5 21172,7.25,,S
@@ -397,7 +397,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 396,0,3,Johansson, Mr., Erik,male,22,0,0,350052,7.7958,,S
 397,0,3,Olsson, Miss., Elina,female,31,0,0,350407,7.8542,,S
 398,0,2,McKane, Mr., Peter David,male,46,0,0,28403,26,,S
-399,0,2,Pain, Dr. Alfred,male,23,0,0,244278,10.5,,S
+399,0,2,Pain, Dr., Alfred,male,23,0,0,244278,10.5,,S
 400,1,2,Trout, Mrs., William H (Jessie L),female,28,0,0,240929,12.65,,S
 401,1,3,Niskanen, Mr., Juha,male,39,0,0,STON/O 2. 3101289,7.925,,S
 402,0,3,Adams, Mr., John,male,26,0,0,341826,8.05,,S
@@ -442,7 +442,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 441,1,2,Hart, Mrs., Benjamin (Esther Ada Bloomfield),female,45,1,1,F.C.C. 13529,26.25,,S
 442,0,3,Hampe, Mr., Leon,male,20,0,0,345769,9.5,,S
 443,0,3,Petterson, Mr., Johan Emil,male,25,1,0,347076,7.775,,S
-444,1,2,Reynaldo, Ms. Encarnacion,female,28,0,0,230434,13,,S
+444,1,2,Reynaldo, Ms., Encarnacion,female,28,0,0,230434,13,,S
 445,1,3,Johannesen-Bratthammer, Mr., Bernt,male,,0,0,65306,8.1125,,S
 446,1,1,Dodge, Master., Washington,male,4,0,2,33638,81.8583,A34,S
 447,1,2,Mellinger, Miss., Madeleine Violet,female,13,0,1,250644,19.5,,S
@@ -598,7 +598,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 597,1,2,Leitch, Miss., Jessie Wills,female,,0,0,248727,33,,S
 598,0,3,Johnson, Mr., Alfred,male,49,0,0,LINE,0,,S
 599,0,3,Boulos, Mr., Hanna,male,,0,0,2664,7.225,,C
-600,1,1,Duff Gordon, Sir. Cosmo Edmund (Mr Morgan),male,49,1,0,PC 17485,56.9292,A20,C
+600,1,1,Duff Gordon, Sir., Cosmo Edmund (Mr Morgan),male,49,1,0,PC 17485,56.9292,A20,C
 601,1,2,Jacobsohn, Mrs., Sidney Samuel (Amy Frances Christy),female,24,2,1,243847,27,,S
 602,0,3,Slabenoff, Mr., Petco,male,,0,0,349214,7.8958,,S
 603,0,1,Harrington, Mr., Charles H,male,,0,0,113796,42.4,,S
@@ -631,7 +631,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 630,0,3,O'Connell, Mr., Patrick D,male,,0,0,334912,7.7333,,Q
 631,1,1,Barkworth, Mr., Algernon Henry Wilson,male,80,0,0,27042,30,A23,S
 632,0,3,Lundahl, Mr., Johan Svensson,male,51,0,0,347743,7.0542,,S
-633,1,1,Stahelin-Maeglin, Dr. Max,male,32,0,0,13214,30.5,B50,C
+633,1,1,Stahelin-Maeglin, Dr., Max,male,32,0,0,13214,30.5,B50,C
 634,0,1,Parr, Mr., William Henry Marsh,male,,0,0,112052,0,,S
 635,0,3,Skoog, Miss., Mabel,female,9,3,2,347088,27.9,,S
 636,1,2,Davis, Miss., Mary,female,28,0,0,237668,13,,S
@@ -640,13 +640,13 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 639,0,3,Panula, Mrs., Juha (Maria Emilia Ojala),female,41,0,5,3101295,39.6875,,S
 640,0,3,Thorneycroft, Mr., Percival,male,,1,0,376564,16.1,,S
 641,0,3,Jensen, Mr., Hans Peder,male,20,0,0,350050,7.8542,,S
-642,1,1,Sagesser, Mlle. Emma,female,24,0,0,PC 17477,69.3,B35,C
+642,1,1,Sagesser, Mlle., Emma,female,24,0,0,PC 17477,69.3,B35,C
 643,0,3,Skoog, Miss., Margit Elizabeth,female,2,3,2,347088,27.9,,S
 644,1,3,Foo, Mr., Choong,male,,0,0,1601,56.4958,,S
 645,1,3,Baclini, Miss., Eugenie,female,0.75,2,1,2666,19.2583,,C
 646,1,1,Harper, Mr., Henry Sleeper,male,48,1,0,PC 17572,76.7292,D33,C
 647,0,3,Cor, Mr., Liudevit,male,19,0,0,349231,7.8958,,S
-648,1,1,Simonius-Blumer, Col. Oberst Alfons,male,56,0,0,13213,35.5,A26,C
+648,1,1,Simonius-Blumer, Col., Oberst Alfons,male,56,0,0,13213,35.5,A26,C
 649,0,3,Willey, Mr., Edward,male,,0,0,S.O./P.P. 751,7.55,,S
 650,1,3,Stanley, Miss., Amy Zillah Elsie,female,23,0,0,CA. 2314,7.55,,S
 651,0,3,Mitkoff, Mr., Mito,male,,0,0,349221,7.8958,,S
@@ -659,7 +659,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 658,0,3,Bourke, Mrs., John (Catherine),female,32,1,1,364849,15.5,,Q
 659,0,2,Eitemiller, Mr., George Floyd,male,23,0,0,29751,13,,S
 660,0,1,Newell, Mr., Arthur Webster,male,58,0,2,35273,113.275,D48,C
-661,1,1,Frauenthal, Dr. Henry William,male,50,2,0,PC 17611,133.65,,S
+661,1,1,Frauenthal, Dr., Henry William,male,50,2,0,PC 17611,133.65,,S
 662,0,3,Badt, Mr., Mohamed,male,40,0,0,2623,7.225,,C
 663,0,1,Colley, Mr., Edward Pomeroy,male,47,0,0,5727,25.5875,E58,S
 664,0,3,Coleff, Mr., Peju,male,36,0,0,349210,7.4958,,S
@@ -693,7 +693,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 692,1,3,Karun, Miss., Manca,female,4,0,1,349256,13.4167,,C
 693,1,3,Lam, Mr., Ali,male,,0,0,1601,56.4958,,S
 694,0,3,Saad, Mr., Khalil,male,25,0,0,2672,7.225,,C
-695,0,1,Weir, Col. John,male,60,0,0,113800,26.55,,S
+695,0,1,Weir, Col., John,male,60,0,0,113800,26.55,,S
 696,0,2,Chapman, Mr., Charles Henry,male,52,0,0,248731,13.5,,S
 697,0,3,Kelly, Mr., James,male,44,0,0,363592,8.05,,S
 698,1,3,Mullens, Miss., Katherine Katie,female,,0,0,35852,7.7333,,Q
@@ -709,7 +709,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 708,1,1,Calderhead, Mr., Edward Pennington,male,42,0,0,PC 17476,26.2875,E24,S
 709,1,1,Cleaver, Miss., Alice,female,22,0,0,113781,151.55,,S
 710,1,3,Moubarek, Master., Halim Gonios (William George),male,,1,1,2661,15.2458,,C
-711,1,1,Mayne, Mlle. Berthe Antonine (Mrs de Villiers),female,24,0,0,PC 17482,49.5042,C90,C
+711,1,1,Mayne, Mlle., Berthe Antonine (Mrs de Villiers),female,24,0,0,PC 17482,49.5042,C90,C
 712,0,1,Klaber, Mr., Herman,male,,0,0,113028,26.55,C124,S
 713,1,1,Taylor, Mr., Elmer Zebley,male,48,1,0,19996,52,C126,S
 714,0,3,Larsson, Mr., August Viktor,male,29,0,0,7545,9.4833,,S
@@ -744,7 +744,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 743,1,1,Ryerson, Miss., Susan Parker Suzette,female,21,2,2,PC 17608,262.375,B57 B59 B63 B66,C
 744,0,3,McNamee, Mr., Neal,male,24,1,0,376566,16.1,,S
 745,1,3,Stranden, Mr., Juho,male,31,0,0,STON/O 2. 3101288,7.925,,S
-746,0,1,Crosby, Capt. Edward Gifford,male,70,1,1,WE/P 5735,71,B22,S
+746,0,1,Crosby, Capt., Edward Gifford,male,70,1,1,WE/P 5735,71,B22,S
 747,0,3,Abbott, Mr., Rossmore Edward,male,16,1,1,C.A. 2673,20.25,,S
 748,1,2,Sinkkonen, Miss., Anna,female,30,0,0,250648,13,,S
 749,0,1,Marvin, Mr., Daniel Warner,male,19,1,0,113773,53.1,D30,S
@@ -758,14 +758,14 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 757,0,3,Carlsson, Mr., August Sigfrid,male,28,0,0,350042,7.7958,,S
 758,0,2,Bailey, Mr., Percy Andrew,male,18,0,0,29108,11.5,,S
 759,0,3,Theobald, Mr., Thomas Leonard,male,34,0,0,363294,8.05,,S
-760,1,1,Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards),female,33,0,0,110152,86.5,B77,S
+760,1,1,Rothes, the Countess., of (Lucy Noel Martha Dyer-Edwards),female,33,0,0,110152,86.5,B77,S
 761,0,3,Garfirth, Mr., John,male,,0,0,358585,14.5,,S
 762,0,3,Nirva, Mr., Iisakki Antino Aijo,male,41,0,0,SOTON/O2 3101272,7.125,,S
 763,1,3,Barah, Mr., Hanna Assi,male,20,0,0,2663,7.2292,,C
 764,1,1,Carter, Mrs., William Ernest (Lucile Polk),female,36,1,2,113760,120,B96 B98,S
 765,0,3,Eklund, Mr., Hans Linus,male,16,0,0,347074,7.775,,S
 766,1,1,Hogeboom, Mrs., John C (Anna Andrews),female,51,1,0,13502,77.9583,D11,S
-767,0,1,Brewe, Dr. Arthur Jackson,male,,0,0,112379,39.6,,C
+767,0,1,Brewe, Dr., Arthur Jackson,male,,0,0,112379,39.6,,C
 768,0,3,Mangan, Miss., Mary,female,30.5,0,0,364850,7.75,,Q
 769,0,3,Moran, Mr., Daniel J,male,,1,0,371110,24.15,,Q
 770,0,3,Gronnestad, Mr., Daniel Danielsen,male,32,0,0,8471,8.3625,,S
@@ -795,7 +795,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 794,0,1,Hoyt, Mr., William Fisher,male,,0,0,PC 17600,30.6958,,C
 795,0,3,Dantcheff, Mr., Ristiu,male,25,0,0,349203,7.8958,,S
 796,0,2,Otter, Mr., Richard,male,39,0,0,28213,13,,S
-797,1,1,Leader, Dr. Alice (Farnham),female,49,0,0,17465,25.9292,D17,S
+797,1,1,Leader, Dr., Alice (Farnham),female,49,0,0,17465,25.9292,D17,S
 798,1,3,Osman, Mrs., Mara,female,31,0,0,349244,8.6833,,S
 799,0,3,Ibrahim Shawah, Mr., Yousseff,male,30,0,0,2685,7.2292,,C
 800,0,3,Van Impe, Mrs., Jean Baptiste (Rosalie Paula Govaert),female,30,1,1,345773,24.15,,S
@@ -821,7 +821,7 @@ PassengerId,Survived,Pclass,Name,Title,FamilyName,Sex,Age,SibSp,Parch,Ticket,Far
 820,0,3,Skoog, Master., Karl Thorsten,male,10,3,2,347088,27.9,,S
 821,1,1,Hays, Mrs., Charles Melville (Clara Jennings Gregg),female,52,1,1,12749,93.5,B69,S
 822,1,3,Lulic, Mr., Nikola,male,27,0,0,315098,8.6625,,S
-823,0,1,Reuchlin, Jonkheer. John George,male,38,0,0,19972,0,,S
+823,0,1,Reuchlin, Jonkheer., John George,male,38,0,0,19972,0,,S
 824,1,3,Moor, Mrs., (Beila),female,27,0,1,392096,12.475,E121,S
 825,0,3,Panula, Master., Urho Abraham,male,2,4,1,3101295,39.6875,,S
 826,0,3,Flynn, Mr., John,male,,0,0,368323,6.95,,Q
